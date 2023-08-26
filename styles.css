@@ -1,10 +1,11 @@
 /*  your css code here. If applicable */
-div >p{
-	background:black;
+.master>p{
+background:black;
 	color:white;
+	position:top;
 	
 }
-}
+
 :root {
   background:rgb(135, 206, 235);
 }
